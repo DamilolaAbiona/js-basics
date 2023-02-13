@@ -19,3 +19,6 @@
 - Mobile Application
   |Stastically typed|Dynamically typed|
   |---|---|
+  |A statically-typed language is a language where variable types are known at compile time. In most of these languages, types must be expressly indicated by the programmer; in other cases (such as OCaml), type inference allows the programmer to not indicate their variable types. |Dynamically-typed languages are those where the interpreter assigns variables a type at runtime based on the variable's value at the time.|
+  |---|---|
+  |Examples are:Java, Haskell, C, C++, C#, Scala, Kotlin, Fortran, Go, Pascal, and Swift.|Examples are:Perl, Ruby, Python, PHP, JavaScript |
